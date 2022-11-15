@@ -1,1 +1,1 @@
-# PGrupal
+# Proyecto Grupal
