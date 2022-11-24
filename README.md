@@ -46,26 +46,22 @@ To get a local copy up and running follow these simple example steps.
 👤 **Geronimo Maggi**
 
 - GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 👤 **Oscar Matias Bonfanti**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/Bonfantimatias)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/matiasbonfanti)
 
 👤 **Nelson Joel Stanich**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/joelstanich)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/joelstanich)
 
 👤 **Leon Yohel Espitia Valencia**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Leon-Espitia](https://github.com/Leon-Espitia)
+- LinkedIn: [leon-espitia](https://www.linkedin.com/in/leon-espitia/)
 
 ## 🤝 Contribuciones
 
