@@ -50,12 +50,12 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Oscar Matias Bonfanti**
 
-- GitHub: [@githubhandle](https://github.com/Bonfantimatias)
+- GitHub: [@Bonfantimatias](https://github.com/Bonfantimatias)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/matiasbonfanti)
 
 👤 **Nelson Joel Stanich**
 
-- GitHub: [@githubhandle](https://github.com/joelstanich)
+- GitHub: [@joelstanich](https://github.com/joelstanich)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/joelstanich)
 
 👤 **Leon Yohel Espitia Valencia**
