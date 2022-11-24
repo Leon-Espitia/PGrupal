@@ -4,7 +4,8 @@
 # Proyecto grupal Yelp!
 
 > Description the project.
-
+## [Semana1](https://github.com/Leon-Espitia/Yelp_PGrupal_11/tree/before-main/Semana%201)
+## [Semana2](https://github.com/Leon-Espitia/Yelp_PGrupal_11/tree/before-main/Semana%202)
 
 ## Desarrollado con:
 
