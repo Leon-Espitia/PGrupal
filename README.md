@@ -45,23 +45,23 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Geronimo Maggi**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Geromaggi](https://github.com/Geromaggi)
+- LinkedIn: [Geronimo Maggi](https://www.linkedin.com/in/geronimo-maggi-data-scientist)
 
 👤 **Oscar Matias Bonfanti**
 
 - GitHub: [@Bonfantimatias](https://github.com/Bonfantimatias)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/matiasbonfanti)
+- LinkedIn: [Bonfanti Matias](https://linkedin.com/in/matiasbonfanti)
 
 👤 **Nelson Joel Stanich**
 
 - GitHub: [@joelstanich](https://github.com/joelstanich)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/joelstanich)
+- LinkedIn: [Joel Stanich](https://linkedin.com/in/joelstanich)
 
 👤 **Leon Yohel Espitia Valencia**
 
 - GitHub: [@Leon-Espitia](https://github.com/Leon-Espitia)
-- LinkedIn: [leon-espitia](https://www.linkedin.com/in/leon-espitia/)
+- LinkedIn: [Leon Espitia](https://www.linkedin.com/in/leon-espitia/)
 
 ## 🤝 Contribuciones
 
