@@ -10,9 +10,9 @@ Hemos dividido el trabajo durante 3 semanas, encontraran el contenido semanal en
 
 ## Desarrollado con:
 
-- Lenguajes principales: Apache Airflow, Apache Spark, Python, SQL, Power BI
-- Frameworks: Pandas
-- Tecnologias usadas: Google Cloud Platform
+- Lenguajes principales: Apache Airflow, Apache Spark, Python, SQL
+- Librerias: Pandas
+- Tecnologias usadas: Google Cloud Platform, Power BI
 
 ## Colaboradores
 
