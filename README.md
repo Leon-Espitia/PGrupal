@@ -1,5 +1,3 @@
 # Proyecto Grupal 
 
-La rama main de este repositorio quedara vacia momentaneamente. Puedes ver nuestro trabajo del dia a dia en la rama llamada 'before-main'
-
-Gracias
+La rama main de este repositorio quedara vacia momentaneamente. Puedes ver nuestro trabajo del dia a dia en la rama llamada [before-main](https://github.com/Leon-Espitia/Yelp_PGrupal_11/tree/before-main). Gracias.
