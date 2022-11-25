@@ -14,34 +14,7 @@ Hemos dividido el trabajo durante 3 semanas, encontraran el contenido semanal en
 - Frameworks: Pandas
 - Tecnologias usadas: Google Cloud Platform
 
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
-## Authors
+## Colaboradores
 
 👤 **Geronimo Maggi**
 
@@ -72,9 +45,4 @@ Contribuciones, preguntas y cualquier otro tipo de aporte es bienvenido!
 
 Regalanos una ⭐️ si te gusto este proyecto!
 
-## Reconocimientos.
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
