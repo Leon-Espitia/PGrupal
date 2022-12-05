@@ -18,7 +18,7 @@ Hemos decidido dar un enfoque comercial a nuestro proyecto, para lo cual hemos c
 
 
 Hemos dividido el trabajo durante 3 semanas, encontraran el contenido semanal en los siguientes links:<br>
-### [Semana1](https://github.com/Leon-Espitia/Yelp_PGrupal_11/tree/before-main/Semana%201) Propuesta de Proyecto.<br>
+### [Semana1](https://github.com/Leon-Espitia/Yelp_PGrupal_11/tree/main/Semana%201) Propuesta de Proyecto.<br>
 ### [Semana2](https://github.com/Leon-Espitia/Yelp_PGrupal_11/tree/before-main/Semana%202) Data Engineering.<br>
 
 ## Desarrollado con:
