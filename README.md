@@ -1,13 +1,16 @@
 # Proyecto grupal Yelp!
 
-Se nos plantea la situacion de analizar la información relacionada a las reseñas realizadas por usuarios sobre los establecimientos comerciales. La pagina a analizar es Yelp.
+Esté es el proyecto final del proceso academico realizado en Henry, en cual se nos plantea la situacion de analizar la información (Data) que se encuentra en la plataforma de reseñas internacionales "Yelp", la cual muestra los comentarios realizados por los usuarios sobre algun producto o servicio ofrecido por los establecimientos comerciales. De igual manera, esta plataforma digital plantea que los clientes brinden una calificacion (Estrellas) directamente relacionada a su experiencia.
 
 # Enfoque del proyecto:
-Hemos decidido dar un enfoque comercial a nuestro proyecto, para lo cual hemos creado una empresa ficticia llamada "Four 4" la cual es una empresa dedicada a la investigación de mercados y que hace uso exclusivo de los datos (Data Driven) para el logro de sus objetivos. 
+Como solucion a esté proyecto planteado por Henry hemos decidido crear una agencia de investigación de mercados, la cual fundamenta su trabajo en el manejo general de bases de datos, extrayendo de ellas valiosa información que permite el logro de los objetivos de cada caso en particular.
+
+## Presentamos:
+logo
 
 ## Objetivos corporativos:
-1. Orientación a inversionistas - Detectar oportunidades de inversion
-2. Orientacion a dueños de negocio - Detectar oportunidades de expansion
+1. Orientacion a dueños de negocio - Detectar oportunidades de expansion.
+2. Orientación a inversionistas - Detectar oportunidades de inversion.
 
 ## Campos de Accion:
 *Ingenieria de Datos.
@@ -17,6 +20,8 @@ Hemos decidido dar un enfoque comercial a nuestro proyecto, para lo cual hemos c
 *Business Inteligence.
 
 
+
+# Metodologia de Trabajo
 Hemos dividido el trabajo durante 3 semanas, encontraran el contenido semanal en los siguientes links:<br>
 ### [Semana1](https://github.com/Leon-Espitia/Yelp_PGrupal_11/tree/main/Semana%201) Propuesta de Proyecto.<br>
 ### [Semana2](https://github.com/Leon-Espitia/Yelp_PGrupal_11/tree/main/Semana%202) Data Engineering.<br>
