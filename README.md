@@ -1,4 +1,4 @@
-# Proyecto grupal Yelp!
+# Proyecto grupal Yelp! <img src="Assets/Yelp_Logo.png" width=50>
 
 Esté es el proyecto final del proceso academico realizado en Henry, en cual se nos plantea la situacion de analizar la información (Data) que se encuentra en la plataforma de reseñas internacionales "Yelp", la cual muestra los comentarios realizados por los usuarios sobre algun producto o servicio ofrecido por los establecimientos comerciales. De igual manera, esta plataforma digital plantea que los clientes brinden una calificacion (Estrellas) directamente relacionada a su experiencia.
 
