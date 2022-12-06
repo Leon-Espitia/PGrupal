@@ -6,7 +6,7 @@ Esté es el proyecto final del proceso academico realizado en Henry, en cual se 
 Como solucion a esté proyecto planteado por Henry hemos decidido crear una agencia de investigación de mercados, la cual fundamenta su trabajo en el manejo general de bases de datos, extrayendo de ellas valiosa información que permite el logro de los objetivos de cada caso en particular.
 
 ## Presentamos:
-logo
+<img src="Assets/Data%20Services.png" width = 200>
 
 ## Objetivos corporativos:
 1. Orientacion a dueños de negocio - Detectar oportunidades de expansion.
@@ -18,7 +18,6 @@ logo
 *Machine Learning.<br>
 *Analisis de Datos.<br>
 *Business Inteligence.<br>
-
 
 
 # Metodologia de Trabajo
