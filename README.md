@@ -21,10 +21,11 @@ Como solucion a esté proyecto planteado por Henry hemos decidido crear una agen
 
 
 # Metodologia de Trabajo
-Hemos dividido el trabajo durante 3 semanas, encontraran el contenido semanal en los siguientes links:<br>
-### [Semana1](https://github.com/Leon-Espitia/Yelp_PGrupal_11/tree/main/Semana%201) Propuesta de Proyecto.<br>
-### [Semana2](https://github.com/Leon-Espitia/Yelp_PGrupal_11/tree/main/Semana%202) Data Engineering.<br>
-### [Semana3](https://github.com/Leon-Espitia/Yelp_PGrupal_11/tree/main/Semana%203) ML y Data Analytics.<br>
+Para realizar este proyecto hemos dividido el trabajo durante 4 semanas abordando cada una de las fases involucradas en nuestro proceso de manejo de los datos. Acontinuacion, encontraran el contenido semanal:<br>
+## [Semana1](https://github.com/Leon-Espitia/Yelp_PGrupal_11/tree/main/Semana%201) Propuesta de Proyecto.<br>
+## [Semana2](https://github.com/Leon-Espitia/Yelp_PGrupal_11/tree/main/Semana%202) Data Engineering.<br>
+## [Semana3](https://github.com/Leon-Espitia/Yelp_PGrupal_11/tree/main/Semana%203) ML - Data Analytics.<br>
+## [Semana4](https://github.com/Leon-Espitia/Yelp_PGrupal_11/tree/main/Semana%203) Data Analytics - Storytelling.<br>
 
 ## Desarrollado con:
 
