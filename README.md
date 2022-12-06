@@ -9,23 +9,23 @@ Como solucion a esté proyecto planteado por Henry hemos decidido crear una agen
 <img src="Assets/Data%20Services.png" width = 200>
 
 ## Objetivos corporativos:
-1. Orientacion a dueños de negocio - Detectar oportunidades de expansion.
-2. Orientación a inversionistas - Detectar oportunidades de inversion.
+1. Orientacion a dueños de negocio -> Detectar oportunidades de expansion.
+2. Orientación a inversionistas -> Detectar oportunidades de inversion.
 
 ## Campos de Accion:
-*Ingenieria de Datos.<br>
-*Virtualizacion.<br>
-*Machine Learning.<br>
-*Analisis de Datos.<br>
-*Business Inteligence.<br>
+ * Ingenieria de Datos.<br>
+ * Virtualizacion.<br>
+ * Machine Learning.<br>
+ * Analisis de Datos.<br>
+ * Business Inteligence.<br>
 
 
 # Metodologia de Trabajo
-Para realizar este proyecto hemos dividido el trabajo durante 4 semanas abordando cada una de las fases involucradas en nuestro proceso de manejo de los datos. Acontinuacion, encontraran el contenido semanal:<br>
-## [Semana1](https://github.com/Leon-Espitia/Yelp_PGrupal_11/tree/main/Semana%201) Propuesta de Proyecto.<br>
-## [Semana2](https://github.com/Leon-Espitia/Yelp_PGrupal_11/tree/main/Semana%202) Data Engineering.<br>
-## [Semana3](https://github.com/Leon-Espitia/Yelp_PGrupal_11/tree/main/Semana%203) ML - Data Analytics.<br>
-## [Semana4](https://github.com/Leon-Espitia/Yelp_PGrupal_11/tree/main/Semana%203) Data Analytics - Storytelling.<br>
+Para realizar este proyecto hemos dividido el trabajo durante 4 semanas abordando cada una de las fases involucradas en nuestro proceso de manejo de los datos.<br> En los siguientes elances podra encontrar el desarrollo semana a semana de nuestro trabajo:<br>
+### [Semana1](https://github.com/Leon-Espitia/Yelp_PGrupal_11/tree/main/Semana%201) Propuesta de Proyecto.<br>
+### [Semana2](https://github.com/Leon-Espitia/Yelp_PGrupal_11/tree/main/Semana%202) Data Engineering.<br>
+### [Semana3](https://github.com/Leon-Espitia/Yelp_PGrupal_11/tree/main/Semana%203) ML - Data Analytics.<br>
+### [Semana4](https://github.com/Leon-Espitia/Yelp_PGrupal_11/tree/main/Semana%203) Data Analytics - Storytelling.<br>
 
 ## Desarrollado con:
 
