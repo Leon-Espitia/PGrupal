@@ -25,7 +25,7 @@ logo
 Hemos dividido el trabajo durante 3 semanas, encontraran el contenido semanal en los siguientes links:<br>
 ### [Semana1](https://github.com/Leon-Espitia/Yelp_PGrupal_11/tree/main/Semana%201) Propuesta de Proyecto.<br>
 ### [Semana2](https://github.com/Leon-Espitia/Yelp_PGrupal_11/tree/main/Semana%202) Data Engineering.<br>
-### [Semana3](https://github.com/Leon-Espitia/Yelp_PGrupal_11/tree/main/Semana%202) ML y Data Analytics.<br>
+### [Semana3](https://github.com/Leon-Espitia/Yelp_PGrupal_11/tree/main/Semana%203) ML y Data Analytics.<br>
 
 ## Desarrollado con:
 
