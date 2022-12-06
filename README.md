@@ -31,9 +31,12 @@ Para realizar este proyecto hemos dividido el trabajo durante 4 semanas abordand
 
 ## Desarrollado con:
 
-- Lenguajes principales: Apache Airflow, Apache Spark, Python, SQL
-- Librerias: Pandas
-- Tecnologias usadas: Google Cloud Platform, Power BI
+- Lenguajes principales: Apache Airflow, Apache Spark, Python, SQL<br>
+- Librerias: Pandas<br>
+- Tecnologias usadas: Google Cloud Platform<br>
+- Visualización: Looker Studio <br>
+
+ <img src="Assets/AirflowLogo.png" width = 50>&ensp;<img src="Assets/spark.png" width = 60>
 
 ## Colaboradores
 
