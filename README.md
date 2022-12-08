@@ -15,6 +15,7 @@ Como solucion a esté proyecto planteado por Henry hemos decidido crear una agen
 - Orientación a inversionistas :arrow_right: Detectar oportunidades de inversion.
 
 ## Campos de Accion:
+ * Arquitectura de datos.<br>
  * Ingenieria de Datos.<br>
  * Virtualizacion.<br>
  * Machine Learning.<br>
