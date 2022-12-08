@@ -37,8 +37,7 @@ Para realizar este proyecto hemos dividido el trabajo durante 4 semanas abordand
 - Tecnologias usadas: Google Cloud Platform<br>
 - Visualización: Looker Studio <br>
 
- <img src="Assets/AirflowLogo.png" width = 65>&ensp;<img src="Assets/spark.png" width = 68>&ensp;<img src="Assets/python_logo.jpeg" width = 28>&ensp;
- <img src="Assets/google_cloudd_platform.png" width = 55>&ensp;<img src="Assets\logo-googlecloudstorage.png" width = 73>&ensp;<img src="Assets\google-bigquery.png" width = 70>&ensp;<img src="Assets/LookerStudio-logo.png" width = 80>&ensp;&ensp;<img src="Assets\jupyter_logo.png" width = 27>&ensp;<img src="Assets\vscode_logo.jpeg" width = 30>&ensp;<img src="Assets\www.png" width = 27>
+ <img src="Assets/AirflowLogo.png" width = 65>&ensp;<img src="Assets/spark.png" width = 68>&ensp;<img src="Assets/python_logo.jpeg" width = 28>&ensp;<img src="Assets/google_cloudd_platform.png" width = 55>&ensp;<img src="Assets\logo-googlecloudstorage.png" width = 73>&ensp;<img src="Assets\google-bigquery.png" width = 70>&ensp;<img src="Assets/LookerStudio-logo.png" width = 80>&ensp;&ensp;<img src="Assets\jupyter_logo.png" width = 27>&ensp;<img src="Assets\vscode_logo.jpeg" width = 30>&ensp;<img src="Assets\www.png" width = 27>
 
 ## Colaboradores
 
