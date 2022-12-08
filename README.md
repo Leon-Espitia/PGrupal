@@ -36,7 +36,7 @@ Para realizar este proyecto hemos dividido el trabajo durante 4 semanas abordand
 - Tecnologias usadas: Google Cloud Platform<br>
 - Visualización: Looker Studio <br>
 
- <img src="Assets/AirflowLogo.png" width = 50>&ensp;<img src="Assets/spark.png" width = 60>
+ <img src="Assets/AirflowLogo.png" width = 50>&ensp;<img src="Assets/spark.png" width = 60>&ensp;<img src="Assets/python_logo.jpg" width = 60>&ensp;<img src="Assets/sql.png" width = 60>&ensp;<img src="Assets/google_cloudd_platform.png" width = 60>&ensp;<img src="Assets/LookerStudio-logo.png" width = 60>
 
 ## Colaboradores
 
