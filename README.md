@@ -14,6 +14,11 @@ Como solucion a esté proyecto planteado por Henry hemos decidido crear una agen
 - Orientacion a dueños de negocio :arrow_right: Detectar oportunidades de expansion.
 - Orientación a inversionistas :arrow_right: Detectar oportunidades de inversion.
 
+## Objetivos del proyecto:
+- Determinar el estado de crecimiento de los establecimientos.
+- Detectar las zonas potenciales para la inserción de nuevos negocios.
+- Generar un sistema de respuesta automatico a los comentarios de los clientes de los establecimientos.
+
 ## Campos de Accion:
  * Arquitectura de datos.<br>
  * Ingenieria de Datos.<br>
