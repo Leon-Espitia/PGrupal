@@ -33,7 +33,7 @@ Para realizar este proyecto hemos dividido el trabajo durante 4 semanas abordand
 ### [Semana1](https://github.com/Leon-Espitia/Yelp_PGrupal_11/tree/main/Semana%201) Propuesta de Proyecto.<br>
 ### [Semana2](https://github.com/Leon-Espitia/Yelp_PGrupal_11/tree/main/Semana%202) Data Engineering.<br>
 ### [Semana3](https://github.com/Leon-Espitia/Yelp_PGrupal_11/tree/main/Semana%203) ML - Data Analytics.<br>
-### [Semana4](https://github.com/Leon-Espitia/Yelp_PGrupal_11/tree/main/Semana%203) Data Analytics - Storytelling.<br>
+### [Semana4](https://github.com/Leon-Espitia/Yelp_PGrupal_11/tree/main/Semana%204) Data Analytics - Storytelling.<br>
 
 ## Desarrollado con:
 
