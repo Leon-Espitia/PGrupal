@@ -1,6 +1,6 @@
 # SEMANA 1: PROPUESTA DE TRABAJO
 
-<img src="../Assets/semana 1.jpeg" width=100>
+<img src="../Assets/semana 1.jpeg" width=350>
 
 Esta semana se centra en la Propuesta de Trabajo. Se realizaron analisis de los datos disponibles y del proyecto elegido, se vio la tematica, el modo de encarar esta misma, y brindar soluciones adecuadas con las herramientas correspondientes. 
 
