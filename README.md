@@ -11,7 +11,7 @@ Como solucion a esté proyecto planteado por Henry hemos decidido crear una agen
 <img src="Assets/Data%20Services.png" width = 170>
 
 ## Objetivos Corporativos:
-- Orientacion a dueños de negocio :arrow_right: Detectar oportunidades de expansion.
+- Orientación a dueños de negocio :arrow_right: Detectar oportunidades de expansion.
 - Orientación a inversionistas :arrow_right: Detectar oportunidades de inversion.
 
 ## Objetivos del Proyecto:
@@ -25,7 +25,7 @@ Como solucion a esté proyecto planteado por Henry hemos decidido crear una agen
  * Virtualizacion.<br>
  * Machine Learning.<br>
  * Analisis de Datos.<br>
- * Business Inteligence.<br>
+ * Business Intelligence.<br>
 
 
 # Metodologia de Trabajo
